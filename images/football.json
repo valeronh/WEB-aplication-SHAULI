@@ -1,0 +1,1262 @@
+﻿[
+  {
+    "id": "Champions",
+    "value": null
+  },
+  {
+    "id": "Champions.England",
+    "value": null
+  },
+  {
+    "id": "Champions.England.Manchester United",
+    "value": null
+  },
+  {
+    "id": "Champions.England.Manchester United.GK",
+    "value": null
+  },
+  {
+    "id": "Champions.England.Manchester United.DEF",
+    "value": null
+  },
+  {
+    "id": "Champions.England.Manchester United.MID",
+    "value": null
+  },
+  {
+    "id": "Champions.England.Manchester United.ATK",
+    "value": null
+  },
+  {
+    "id": "Champions.England.Manchester United.GK.David de Gea",
+    "value": 1
+  },
+  {
+    "id": "Champions.England.Manchester United.GK.Sergio Romero",
+    "value": 20
+  },
+  {
+    "id": "Champions.England.Manchester United.GK.Victor Lindelöf",
+    "value": 2
+  },
+  {
+    "id": "Champions.England.Manchester United.DEF.Eric Bailly",
+    "value": 3
+  },
+  {
+    "id": "Champions.England.Manchester United.DEF.Phil Jones",
+    "value": 4
+  },
+  {
+    "id": "Champions.England.Manchester United.DEF.Marcos Rojo",
+    "value": 5
+  },
+  {
+    "id": "Champions.England.Manchester United.DEF.Chris Smalling",
+    "value": 12
+  },
+  {
+    "id": "Champions.England.Manchester United.DEF.Daley Blind",
+    "value": 17
+  },
+  {
+    "id": "Champions.England.Manchester United.DEF.Luke Shaw",
+    "value": 23
+  },
+  {
+    "id": "Champions.England.Manchester United.DEF.Antonio Valencia",
+    "value": 25
+  },
+  {
+    "id": "Champions.England.Manchester United.DEF.Matteo Darmian",
+    "value": 36
+  },
+  {
+    "id": "Champions.England.Manchester United.MID.Paul Pogba",
+    "value": 6
+  },
+  {
+    "id": "Champions.England.Manchester United.MID.Juan Mata",
+    "value": 8
+  },
+  {
+    "id": "Champions.England.Manchester United.MID.Jesse Lingard",
+    "value": 14
+  },
+  {
+    "id": "Champions.England.Manchester United.MID.Michael Carrick",
+    "value": 16
+  },
+  {
+    "id": "Champions.England.Manchester United.MID.Ashley Young",
+    "value": 18
+  },
+  {
+    "id": "Champions.England.Manchester United.MID.Ander Herrera",
+    "value": 21
+  },
+  {
+    "id": "Champions.England.Manchester United.MID.Henrikh Mkhitaryan",
+    "value": 22
+  },
+  {
+    "id": "Champions.England.Manchester United.MID.Marouane Fellaini",
+    "value": 27
+  },
+  {
+    "id": "Champions.England.Manchester United.MID.Nemanja Matić",
+    "value": 31
+  },
+  {
+    "id": "Champions.England.Manchester United.ATK.Romelu Lukaku",
+    "value": 9
+  },
+  {
+    "id": "Champions.England.Manchester United.ATK.Zlatan Ibrahimović",
+    "value": 10
+  },
+  {
+    "id": "Champions.England.Manchester United.ATK.Anthony Martial",
+    "value": 11
+  },
+  {
+    "id": "Champions.England.Manchester United.ATK.Marcus Rashford",
+    "value": 19
+  },
+  {
+    "id": "Champions.France",
+    "value": null
+  },
+  {
+    "id": "Champions.France.PSG",
+    "value": null
+  },
+  {
+    "id": "Champions.France.PSG.GK",
+    "value": null
+  },
+  {
+    "id": "Champions.France.PSG.DEF",
+    "value": null
+  },
+  {
+    "id": "Champions.France.PSG.MID",
+    "value": null
+  },
+  {
+    "id": "Champions.France.PSG.ATK",
+    "value": null
+  },
+  {
+    "id": "Champions.France.PSG.GK.Kevin Trapp",
+    "value": 1
+  },
+  {
+    "id": "Champions.France.PSG.GK.Alphonse Areola",
+    "value": 16
+  },
+  {
+    "id": "Champions.France.PSG.DEF.Thiago Silva",
+    "value": 2
+  },
+  {
+    "id": "Champions.France.PSG.DEF.Presnel Kimpembe",
+    "value": 3
+  },
+  {
+    "id": "Champions.France.PSG.DEF.Marquinhos",
+    "value": 5
+  },
+  {
+    "id": "Champions.France.PSG.DEF.Thomas Meunier",
+    "value": 12
+  },
+  {
+    "id": "Champions.France.PSG.DEF.Yuri Berchiche",
+    "value": 17
+  },
+  {
+    "id": "Champions.France.PSG.DEF.Layvin Kurzawa",
+    "value": 20
+  },
+  {
+    "id": "Champions.France.PSG.DEF.Dani Alves",
+    "value": 32
+  },
+  {
+    "id": "Champions.France.PSG.MID.Marco Verratti",
+    "value": 6
+  },
+  {
+    "id": "Champions.France.PSG.MID.Lucas",
+    "value": 7
+  },
+  {
+    "id": "Champions.France.PSG.MID.Thiago Motta",
+    "value": 8
+  },
+  {
+    "id": "Champions.France.PSG.MID.Ángel Di María",
+    "value": 11
+  },
+  {
+    "id": "Champions.France.PSG.MID.Giovani Lo Celso",
+    "value": 18
+  },
+  {
+    "id": "Champions.France.PSG.MID.Julian Draxler",
+    "value": 23
+  },
+  {
+    "id": "Champions.France.PSG.MID.Christopher Nkunku",
+    "value": 24
+  },
+  {
+    "id": "Champions.France.PSG.MID.Adrien Rabiot",
+    "value": 25
+  },
+  {
+    "id": "Champions.France.PSG.MID.Javier Pastore",
+    "value": 27
+  },
+  {
+    "id": "Champions.France.PSG.ATK.Edinson Cavani",
+    "value": 9
+  },
+  {
+    "id": "Champions.France.PSG.ATK.Neymar",
+    "value": 10
+  },
+  {
+    "id": "Champions.France.PSG.ATK.Kylian Mbappé",
+    "value": 29
+  },
+  {
+    "id": "Champions.Germany",
+    "value": null
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen",
+    "value": null
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.GK",
+    "value": null
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.DEF",
+    "value": null
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.MID",
+    "value": null
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.ATK",
+    "value": null
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.GK.Manuel Neuer",
+    "value": 1
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.GK.Tom Starke",
+    "value": 22
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.GK.Sven Ulreich",
+    "value": 26
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.DEF.Niklas Süle",
+    "value": 4
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.DEF.Mats Hummels",
+    "value": 5
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.DEF.Javi Martínez",
+    "value": 8
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.DEF.Rafinha",
+    "value": 13
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.DEF.Juan Bernat",
+    "value": 14
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.DEF.Jérôme Boateng",
+    "value": 17
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.DEF.Sebastian Rudy",
+    "value": 19
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.DEF.David Alaba",
+    "value": 27
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.MID.Thiago Alcántara",
+    "value": 6
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.MID.Franck Ribéry",
+    "value": 7
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.MID.Arjen Robben",
+    "value": 10
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.MID.James Rodríguez",
+    "value": 11
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.MID.Arturo Vidal",
+    "value": 23
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.MID.Corentin Tolisso",
+    "value": 24
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.MID.Niklas Dorsch",
+    "value": 30
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.ATK.Joshua Kimmich",
+    "value": 32
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.ATK.Fabian Benko",
+    "value": 40
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.ATK.Robert Lewandowski",
+    "value": 9
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.ATK.Thomas Müller",
+    "value": 25
+  },
+  {
+    "id": "Champions.Germany.Bayren Munchen.ATK.Kingsley Coman",
+    "value": 29
+  },
+  {
+    "id": "Champions.Spain",
+    "value": null
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid",
+    "value": null
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.GK",
+    "value": null
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.DEF",
+    "value": null
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.MID",
+    "value": null
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.ATK",
+    "value": null
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.GK.Miguel Ángel Moyà",
+    "value": 1
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.GK.Jan Oblak",
+    "value": 13
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.GK.Axel Werner",
+    "value": 25
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.DEF.Diego Godín",
+    "value": 2
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.DEF.Filipe Luís",
+    "value": 3
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.DEF.Stefan Savić",
+    "value": 15
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.DEF.Šime Vrsaljko",
+    "value": 16
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.DEF.Lucas Hernández",
+    "value": 19
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.DEF.Juanfran",
+    "value": 20
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.DEF.José María Giménez",
+    "value": 24
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.MID.Sergi",
+    "value": 29
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.MID.Rafael Muñoz",
+    "value": 70
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.MID.Thomas Partey",
+    "value": 5
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.MID.Koke",
+    "value": 6
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.MID.Saúl Ñíguez",
+    "value": 8
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.MID.Yannick Carrasco",
+    "value": 10
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.MID.Augusto Fernández",
+    "value": 12
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.MID.Gabi",
+    "value": 14
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.MID.Nicolás Gaitán",
+    "value": 22
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.Roberto Olabe",
+    "value": 30
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.ATK.Antoine Griezmann",
+    "value": 7
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.ATK.Fernando Torres",
+    "value": 9
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.ATK.Ángel Correa",
+    "value": 11
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.ATK.Luciano Vietto",
+    "value": 17
+  },
+  {
+    "id": "Champions.Spain.Atletico Madrid.ATK.Kevin Gameiro",
+    "value": 21
+  },
+  {
+    "id": "Champions.England.Chelsea",
+    "value": null
+  },
+  {
+    "id": "Champions.England.Chelsea.GK",
+    "value": null
+  },
+  {
+    "id": "Champions.England.Chelsea.DEF",
+    "value": null
+  },
+  {
+    "id": "Champions.England.Chelsea.MID",
+    "value": null
+  },
+  {
+    "id": "Champions.England.Chelsea.ATK",
+    "value": null
+  },
+  {
+    "id": "Champions.England.Chelsea.GK.Willy Caballero",
+    "value": 1
+  },
+  {
+    "id": "Champions.England.Chelsea.GK.Thibaut Courtois",
+    "value": 13
+  },
+  {
+    "id": "Champions.England.Chelsea.GK.Eduardo",
+    "value": 37
+  },
+  {
+    "id": "Champions.England.Chelsea.GK.Antonio Rüdiger",
+    "value": 2
+  },
+  {
+    "id": "Champions.England.Chelsea.DEF.Marcos Alonso",
+    "value": 3
+  },
+  {
+    "id": "Champions.England.Chelsea.DEF.Davide Zappacosta",
+    "value": 21
+  },
+  {
+    "id": "Champions.England.Chelsea.DEF.Gary Cahill",
+    "value": 24
+  },
+  {
+    "id": "Champions.England.Chelsea.DEF.César Azpilicueta",
+    "value": 28
+  },
+  {
+    "id": "Champions.England.Chelsea.MID.David Luiz",
+    "value": 30
+  },
+  {
+    "id": "Champions.England.Chelsea.MID.Cesc Fàbregas",
+    "value": 4
+  },
+  {
+    "id": "Champions.England.Chelsea.MID.Danny Drinkwater",
+    "value": 6
+  },
+  {
+    "id": "Champions.England.Chelsea.MID.N'Golo Kanté",
+    "value": 7
+  },
+  {
+    "id": "Champions.England.Chelsea.Eden Hazard",
+    "value": 10
+  },
+  {
+    "id": "Champions.England.Chelsea.ATK.Pedro Rodríguez",
+    "value": 11
+  },
+  {
+    "id": "Champions.England.Chelsea.ATK.Tiemoué Bakayoko",
+    "value": 14
+  },
+  {
+    "id": "Champions.England.Chelsea.ATK.Victor Moses",
+    "value": 15
+  },
+  {
+    "id": "Champions.England.Chelsea.ATK.Kenedy",
+    "value": 16
+  },
+  {
+    "id": "Champions.England.Chelsea.ATK.Willian",
+    "value": 22
+  },
+  {
+    "id": "Champions.England.Chelsea.ATK.Álvaro Morata",
+    "value": 9
+  },
+  {
+    "id": "Champions.England.Chelsea.ATK.Michy Batshuayi",
+    "value": 23
+  },
+  {
+    "id": "Champions.Spain.Barcelona",
+    "value": null
+  },
+  {
+    "id": "Champions.Spain.Barcelona.GK",
+    "value": null
+  },
+  {
+    "id": "Champions.Spain.Barcelona.DEF",
+    "value": null
+  },
+  {
+    "id": "Champions.Spain.Barcelona.MID",
+    "value": null
+  },
+  {
+    "id": "Champions.Spain.Barcelona.ATK",
+    "value": null
+  },
+  {
+    "id": "Champions.Spain.Barcelona.GK.Marc-André ter Stegen",
+    "value": 1
+  },
+  {
+    "id": "Champions.Spain.Barcelona.GK.Jasper Cillessen",
+    "value": 13
+  },
+  {
+    "id": "Champions.Spain.Barcelona.GK.Adrián Ortolá",
+    "value": 31
+  },
+  {
+    "id": "Champions.Spain.Barcelona.DEF.Nélson Semedo",
+    "value": 2
+  },
+  {
+    "id": "Champions.Spain.Barcelona.DEF.Gerard Piqué",
+    "value": 3
+  },
+  {
+    "id": "Champions.Spain.Barcelona.DEF.Javier Mascherano",
+    "value": 14
+  },
+  {
+    "id": "Champions.Spain.Barcelona.DEF.Jordi Alba",
+    "value": 18
+  },
+  {
+    "id": "Champions.Spain.Barcelona.DEF.Lucas Digne",
+    "value": 19
+  },
+  {
+    "id": "Champions.Spain.Barcelona.DEF.Aleix Vidal",
+    "value": 22
+  },
+  {
+    "id": "Champions.Spain.Barcelona.DEF.Samuel Umtiti",
+    "value": 23
+  },
+  {
+    "id": "Champions.Spain.Barcelona.DEF.Thomas Vermaelen",
+    "value": 25
+  },
+  {
+    "id": "Champions.Spain.Barcelona.MID.Ivan Rakitić",
+    "value": 4
+  },
+  {
+    "id": "Champions.Spain.Barcelona.MID.Sergio Busquets",
+    "value": 5
+  },
+  {
+    "id": "Champions.Spain.Barcelona.MID.Denis Suárez",
+    "value": 6
+  },
+  {
+    "id": "Champions.Spain.Barcelona.MID.Arda Turan",
+    "value": 7
+  },
+  {
+    "id": "Champions.Spain.Barcelona.MID.Andrés Iniesta",
+    "value": 8
+  },
+  {
+    "id": "Champions.Spain.Barcelona.MID.Rafinha",
+    "value": 12
+  },
+  {
+    "id": "Champions.Spain.Barcelona.MID.Paulinho",
+    "value": 15
+  },
+  {
+    "id": "Champions.Spain.Barcelona.MID.Sergi Roberto",
+    "value": 20
+  },
+  {
+    "id": "Champions.Spain.Barcelona.MID.André Gomes",
+    "value": 21
+  },
+  {
+    "id": "Champions.Spain.Barcelona.ATK.Luis Suárez",
+    "value": 9
+  },
+  {
+    "id": "Champions.Spain.Barcelona.ATK.Lionel Messi",
+    "value": 10
+  },
+  {
+    "id": "Champions.Spain.Barcelona.ATK.Ousmane Dembélé",
+    "value": 11
+  },
+  {
+    "id": "Champions.Spain.Barcelona.ATK.Gerard Deulofeu",
+    "value": 16
+  },
+  {
+    "id": "Champions.Spain.Barcelona.ATK.Paco Alcácer",
+    "value": 17
+  },
+  {
+    "id": "Champions.Italy",
+    "value": null
+  },
+  {
+    "id": "Champions.Italy.Juventus",
+    "value": null
+  },
+  {
+    "id": "Champions.Italy.Juventus.GK",
+    "value": null
+  },
+  {
+    "id": "Champions.Italy.Juventus.DEF",
+    "value": null
+  },
+  {
+    "id": "Champions.Italy.Juventus.MID",
+    "value": null
+  },
+  {
+    "id": "Champions.Italy.Juventus.ATK",
+    "value": null
+  },
+  {
+    "id": "Champions.Italy.Juventus.GK.Gianluigi Buffon",
+    "value": 1
+  },
+  {
+    "id": "Champions.Italy.Juventus.GK.Carlo Pinsoglio",
+    "value": 16
+  },
+  {
+    "id": "Champions.Italy.Juventus.GK.Wojciech Szczęsny",
+    "value": 23
+  },
+  {
+    "id": "Champions.Italy.Juventus.DEF.Mattia De Sciglio",
+    "value": 2
+  },
+  {
+    "id": "Champions.Italy.Juventus.DEF.Giorgio Chiellini",
+    "value": 3
+  },
+  {
+    "id": "Champions.Italy.Juventus.DEF.Medhi Benatia",
+    "value": 4
+  },
+  {
+    "id": "Champions.Italy.Juventus.DEF.Alex Sandro",
+    "value": 12
+  },
+  {
+    "id": "Champions.Italy.Juventus.DEF.Andrea Barzagli",
+    "value": 15
+  },
+  {
+    "id": "Champions.Italy.Juventus.DEF.Benedikt Höwedes",
+    "value": 21
+  },
+  {
+    "id": "Champions.Italy.Juventus.DEF.Daniele Rugani",
+    "value": 24
+  },
+  {
+    "id": "Champions.Italy.Juventus.MID.Miralem Pjanić",
+    "value": 5
+  },
+  {
+    "id": "Champions.Italy.Juventus.MID.Sami Khedira",
+    "value": 6
+  },
+  {
+    "id": "Champions.Italy.Juventus.MID.Juan Cuadrado",
+    "value": 7
+  },
+  {
+    "id": "Champions.Italy.Juventus.MID.Claudio Marchisio",
+    "value": 8
+  },
+  {
+    "id": "Champions.Italy.Juventus.MID.Douglas Costa",
+    "value": 11
+  },
+  {
+    "id": "Champions.Italy.Juventus.MID.Blaise Matuidi",
+    "value": 14
+  },
+  {
+    "id": "Champions.Italy.Juventus.MID.Kwadwo Asamoah",
+    "value": 22
+  },
+  {
+    "id": "Champions.Italy.Juventus.MID.Stefano Sturaro",
+    "value": 27
+  },
+  {
+    "id": "Champions.Italy.Juventus.MID.Rodrigo Bentancur",
+    "value": 30
+  },
+  {
+    "id": "Champions.Italy.Juventus.ATK.Federico Bernardeschi",
+    "value": 33
+  },
+  {
+    "id": "Champions.Italy.Juventus.ATK.Gonzalo Higuaín",
+    "value": 9
+  },
+  {
+    "id": "Champions.Italy.Juventus.ATK.Paulo Dybala",
+    "value": 10
+  },
+  {
+    "id": "Champions.Italy.Juventus.ATK.Mario Mandžukić",
+    "value": 17
+  },
+  {
+    "id": "Champions.England.Liverpool",
+    "value": null
+  },
+  {
+    "id": "Champions.England.Liverpool.GK",
+    "value": null
+  },
+  {
+    "id": "Champions.England.Liverpool.DEF",
+    "value": null
+  },
+  {
+    "id": "Champions.England.Liverpool.MID",
+    "value": null
+  },
+  {
+    "id": "Champions.England.Liverpool.ATK",
+    "value": null
+  },
+  {
+    "id": "Champions.England.Liverpool.GK.Loris Karius",
+    "value": 1
+  },
+  {
+    "id": "Champions.England.Liverpool.GK.Simon Mignolet",
+    "value": 22
+  },
+  {
+    "id": "Champions.England.Liverpool.GK.Danny Ward",
+    "value": 52
+  },
+  {
+    "id": "Champions.England.Liverpool.DEF.Dejan Lovren",
+    "value": 6
+  },
+  {
+    "id": "Champions.England.Liverpool.DEF.Ragnar Klavan",
+    "value": 17
+  },
+  {
+    "id": "Champions.England.Liverpool.DEF.Alberto Moreno",
+    "value": 18
+  },
+  {
+    "id": "Champions.England.Liverpool.DEF.Andy Robertson",
+    "value": 26
+  },
+  {
+    "id": "Champions.England.Liverpool.DEF.Joël Matip",
+    "value": 32
+  },
+  {
+    "id": "Champions.England.Liverpool.DEF.Jon Flanagan",
+    "value": 38
+  },
+  {
+    "id": "Champions.England.Liverpool.MID.Georginio Wijnaldum",
+    "value": 5
+  },
+  {
+    "id": "Champions.England.Liverpool.MID.James Milner",
+    "value": 7
+  },
+  {
+    "id": "Champions.England.Liverpool.MID.Philippe Coutinho",
+    "value": 10
+  },
+  {
+    "id": "Champions.England.Liverpool.MID.Jordan Henderson",
+    "value": 14
+  },
+  {
+    "id": "Champions.England.Liverpool.MID.Marko Grujić",
+    "value": 16
+  },
+  {
+    "id": "Champions.England.Liverpool.MID.Adam Lallana",
+    "value": 20
+  },
+  {
+    "id": "Champions.England.Liverpool.MID.Alex Oxlade-Chamberlain",
+    "value": 21
+  },
+  {
+    "id": "Champions.England.Liverpool.MID.Emre Can",
+    "value": 23
+  },
+  {
+    "id": "Champions.England.Liverpool.ATK.Roberto Firmino",
+    "value": 9
+  },
+  {
+    "id": "Champions.England.Liverpool.ATK.Mohamed Salah",
+    "value": 11
+  },
+  {
+    "id": "Champions.England.Liverpool.ATK.Daniel Sturridge",
+    "value": 15
+  },
+  {
+    "id": "Champions.England.Liverpool.ATK.Sadio Mané",
+    "value": 19
+  },
+  {
+    "id": "Champions.England.Liverpool.ATK.Dominic Solanke",
+    "value": 29
+  },
+  {
+    "id": "Champions.England.Manchester City",
+    "value": null
+  },
+  {
+    "id": "Champions.England.Manchester City.GK",
+    "value": null
+  },
+  {
+    "id": "Champions.England.Manchester City.DEF",
+    "value": null
+  },
+  {
+    "id": "Champions.England.Manchester City.MID",
+    "value": null
+  },
+  {
+    "id": "Champions.England.Manchester City.ATK",
+    "value": null
+  },
+  {
+    "id": "Champions.England.Manchester City.GK.Claudio Bravo",
+    "value": 1
+  },
+  {
+    "id": "Champions.England.Manchester City.GK.Ederson",
+    "value": 31
+  },
+  {
+    "id": "Champions.England.Manchester City.GK.Arijanet Muric",
+    "value": 49
+  },
+  {
+    "id": "Champions.England.Manchester City.DEF.Kyle Walker",
+    "value": 2
+  },
+  {
+    "id": "Champions.England.Manchester City.DEF.Danilo",
+    "value": 3
+  },
+  {
+    "id": "Champions.England.Manchester City.DEF.Vincent Kompany",
+    "value": 4
+  },
+  {
+    "id": "Champions.England.Manchester City.DEF.John Stones",
+    "value": 5
+  },
+  {
+    "id": "Champions.England.Manchester City.DEF.Eliaquim Mangala",
+    "value": 15
+  },
+  {
+    "id": "Champions.England.Manchester City.DEF.Benjamin Mendy",
+    "value": 22
+  },
+  {
+    "id": "Champions.England.Manchester City.MID.Raheem Sterling",
+    "value": 7
+  },
+  {
+    "id": "Champions.England.Manchester City.MID.İlkay Gündoğan",
+    "value": 8
+  },
+  {
+    "id": "Champions.England.Manchester City.MID.Kevin De Bruyne",
+    "value": 17
+  },
+  {
+    "id": "Champions.England.Manchester City.MID.Fabian Delph",
+    "value": 18
+  },
+  {
+    "id": "Champions.England.Manchester City.MID.Leroy Sané",
+    "value": 19
+  },
+  {
+    "id": "Champions.England.Manchester City.MID.Bernardo Silva",
+    "value": 20
+  },
+  {
+    "id": "Champions.England.Manchester City.MID.David Silva",
+    "value": 21
+  },
+  {
+    "id": "Champions.England.Manchester City.MID.Fernandinho",
+    "value": 25
+  },
+  {
+    "id": "Champions.England.Manchester City.ATK.Yaya Touré",
+    "value": 42
+  },
+  {
+    "id": "Champions.England.Manchester City.ATK.Sergio Agüero",
+    "value": 10
+  },
+  {
+    "id": "Champions.England.Manchester City.ATK.Gabriel Jesus",
+    "value": 33
+  },
+  {
+    "id": "Champions.Germany.Dortmund",
+    "value": null
+  },
+  {
+    "id": "Champions.Germany.Dortmund.GK",
+    "value": null
+  },
+  {
+    "id": "Champions.Germany.Dortmund.DEF",
+    "value": null
+  },
+  {
+    "id": "Champions.Germany.Dortmund.MID",
+    "value": null
+  },
+  {
+    "id": "Champions.Germany.Dortmund.ATK",
+    "value": null
+  },
+  {
+    "id": "Champions.Germany.Dortmund.GK.Roman Weidenfeller",
+    "value": 1
+  },
+  {
+    "id": "Champions.Germany.Dortmund.GK.Dominik Reimann",
+    "value": 35
+  },
+  {
+    "id": "Champions.Germany.Dortmund.DEF.Roman Bürki",
+    "value": 38
+  },
+  {
+    "id": "Champions.Germany.Dortmund.DEF.Eike Bansen",
+    "value": 40
+  },
+  {
+    "id": "Champions.Germany.Dortmund.DEF.Dan-Axel Zagadou",
+    "value": 2
+  },
+  {
+    "id": "Champions.Germany.Dortmund.DEF.Neven Subotić",
+    "value": 4
+  },
+  {
+    "id": "Champions.Germany.Dortmund.DEF.Marc Bartra",
+    "value": 5
+  },
+  {
+    "id": "Champions.Germany.Dortmund.DEF.Jeremy Toljan",
+    "value": 15
+  },
+  {
+    "id": "Champions.Germany.Dortmund.DEF.Sokratis Papastathopoulos",
+    "value": 25
+  },
+  {
+    "id": "Champions.Germany.Dortmund.DEF.Łukasz Piszczek",
+    "value": 26
+  },
+  {
+    "id": "Champions.Germany.Dortmund.DEF.Marcel Schmelzer",
+    "value": 29
+  },
+  {
+    "id": "Champions.Germany.Dortmund.MID.Ömer Toprak",
+    "value": 36
+  },
+  {
+    "id": "Champions.Germany.Dortmund.MID.Erik Durm",
+    "value": 37
+  },
+  {
+    "id": "Champions.Germany.Dortmund.MID.Nuri Şahin",
+    "value": 8
+  },
+  {
+    "id": "Champions.Germany.Dortmund.MID.Raphaël Guerreiro",
+    "value": 13
+  },
+  {
+    "id": "Champions.Germany.Dortmund.MID.Sebastian Rode",
+    "value": 18
+  },
+  {
+    "id": "Champions.Germany.Dortmund.MID.Mahmoud Dahoud",
+    "value": 19
+  },
+  {
+    "id": "Champions.Germany.Dortmund.MID.Shinji Kagawa",
+    "value": 23
+  },
+  {
+    "id": "Champions.Germany.Dortmund.MID.Gonzalo Castro",
+    "value": 27
+  },
+  {
+    "id": "Champions.Germany.Dortmund.MID.Julian Weigl",
+    "value": 33
+  },
+  {
+    "id": "Champions.Germany.Dortmund.MID.Andriy Yarmolenko",
+    "value": 9
+  },
+  {
+    "id": "Champions.Germany.Dortmund.ATK.Mario Götze",
+    "value": 10
+  },
+  {
+    "id": "Champions.Germany.Dortmund.ATK.Alexander Isak",
+    "value": 14
+  },
+  {
+    "id": "Champions.Germany.Dortmund.ATK.Pierre-Emerick Aubameyang",
+    "value": 17
+  },
+  {
+    "id": "Champions.Germany.Dortmund.ATK.Maximilian Philipp",
+    "value": 20
+  },
+  {
+    "id": "Champions.Germany.Dortmund.ATK.André Schürrle",
+    "value": 21
+  },
+  {
+    "id": "Champions.Spain.Real Madrid",
+    "value": null
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.GK",
+    "value": null
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.DEF",
+    "value": null
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.MID",
+    "value": null
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.ATK",
+    "value": null
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.GK.Keylor Navas",
+    "value": 1
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.GK.Kiko Casilla",
+    "value": 13
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.DEF.Dani Carvajal",
+    "value": 2
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.DEF.Jesús Vallejo",
+    "value": 3
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.DEF.Sergio Ramos",
+    "value": 4
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.DEF.Raphaël Varane",
+    "value": 5
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.DEF.Nacho",
+    "value": 6
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.DEF.Marcelo",
+    "value": 12
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.DEF.Theo Hernández",
+    "value": 15
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.DEF.chraf Hakimi",
+    "value": 19
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.MID.José León",
+    "value": 34
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.MID.Toni Kroos",
+    "value": 8
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.MID.Luka Modrić",
+    "value": 10
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.MID.Casemiro",
+    "value": 14
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.MID.Lucas Vázquez",
+    "value": 17
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.MID.Marcos Llorente",
+    "value": 18
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.MID.Marco Asensio",
+    "value": 20
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.MID.Isco",
+    "value": 22
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.MID.Mateo Kovačić",
+    "value": 23
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.ATK.Dani Ceballos",
+    "value": 24
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.ATK.Cristiano Ronaldo",
+    "value": 7
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.ATK.Karim Benzema",
+    "value": 9
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.ATK.Gareth Bale",
+    "value": 11
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.ATK.Borja Mayoral",
+    "value": 21
+  },
+  {
+    "id": "Champions.Spain.Real Madrid.ATK.Franchu",
+    "value": 29
+  }
+]
